@@ -5,7 +5,7 @@ const app = initializeApp({
   authDomain: 'FIREBASE_DOMAIN',
   databaseURL: 'FIREBASE_URL',
   projectId: 'FIREBASE_PROJECT_ID',
-  storageBucket: 'FIREBASE_STORAGE,
+  storageBucket: 'FIREBASE_STORAGE',
   messagingSenderId: 'MESSAGE_SENDER_ID'
 })
 
